@@ -1,6 +1,6 @@
 <?php
 
-$servername = "34.248.221.156";
+$servername = "http://34.248.221.156";
 $username = "webaccess";
 $password = "qwerty";
 $dbname = "huddle";
